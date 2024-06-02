@@ -1,8 +1,9 @@
 # pytorch_classification_exercise
-**pytorch_classification_exercise and solutions**
+**Examples of models and solutions on PyTorch.**
 
-this case from; 
+Cases from; 
 
   PyTorch for Deep Learning & Machine Learning – Full Course  (https://www.youtube.com/@freecodecamp)
+
 
 
